@@ -11,3 +11,7 @@
 ### Projeto
 
 [![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaleandro&repo=Tik-Tok-Projeto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleandro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
